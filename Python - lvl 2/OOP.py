@@ -8,6 +8,7 @@ class Shapes():
     def what_am_i(self):
         return "I am a shape"
 
+
     def change_colour(self, colour):
         self.colour = colour
 
